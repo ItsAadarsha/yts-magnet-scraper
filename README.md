@@ -25,7 +25,9 @@ pip install requests
 
 ## Usage 
 Run the script from the command line, passing the movie name as an argument (quotes recommended for multi-word titles):
+``` bash
     python main.py "The Matrix"
+```
 
 The script will:
 - Search YTS for the movie
