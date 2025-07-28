@@ -11,7 +11,7 @@ A simple script that searches for movies on YTS.mx, fetches the available movies
 
 ## Prerequisites
 
-- - Python 3.6+
+- Python 3.6+
 - `requests` library
 - `urllib` (built-in)
 - `webbrowser` (built-in)
