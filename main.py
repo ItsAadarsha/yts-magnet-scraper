@@ -81,7 +81,7 @@ def magnet(torrent, movie_name):
         print("Failed to open magnet link.")
         print(magnet)
 
-
+# main
 def main():
     
     if len(sys.argv) < 2:
